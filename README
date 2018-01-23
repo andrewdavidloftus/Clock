@@ -1,0 +1,4 @@
+This is a clock animation in MATLAB featuring moving hands, a rotating 24-hour dial, sounds, and basic controls.
+Run the file "analogClock".
+It takes in one parameter, a string of the form 'hh:mm:ss' for the starting time e.g. '05:43:20'
+It does not require an input, as it defaults to 12 o'clock.
